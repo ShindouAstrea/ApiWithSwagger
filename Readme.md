@@ -1,9 +1,9 @@
 ## Como compilar 
 
-1.- Clonar el repositorio.
-2.- Abrir una terminal en la ruta del repositorio.
-3.- Instalar las dependencias con el comando "npm install"
-4.- Ejecutar el comando "npm start" para levantar el servicio.
+1. Clonar el repositorio.
+2. Abrir una terminal en la ruta del repositorio.
+3. Instalar las dependencias con el comando "npm install"
+4. Ejecutar el comando "npm start" para levantar el servicio.
 
 ## Rutas
     Se debe hacer un post a la ruta "localhost:400/"  donde en el body se debe ingresar un json con la siguiente estructura:
